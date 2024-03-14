@@ -80,7 +80,7 @@ Oil production rate for different WOR at perforation depth of 13002 ft:  <br/>
 
 
 <p align="center"> 
-Graph of Oil Flowrate (STP/d) vs Watercut(%):  <br/>
+Graph of oil flowrate (STP/d) vs watercut(%):  <br/>
 <img src="https://imgur.com/vlDjXq0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -99,7 +99,7 @@ From the figure above, it is observed that as the completion depth was increased
 
 
 <p align="center"> 
-Oil Production Rate for Different WOR at Perforation depth of 13200ft. <br/>
+Oil production rate for different WOR at perforation depth of 13200ft. <br/>
 <img src="https://imgur.com/jdGuZkh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
