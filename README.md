@@ -1,4 +1,4 @@
-<h1> Investigation and Mitigation of the Effect of Water Oil Ratio (WOR) </h1>
+<h1> Managing Water Cut Impact on Oil Well Perfomance </h1>
 
 <h2>Description</h2>
 In the oil and gas industry, "water cut" refers to the proportion of water present in a mixture of crude oil and water produced from an oil well. It's a crucial parameter used to assess the overall quality of the produced fluid and to determine the appropriate processing and treatment required before the oil can be refined or sold.
